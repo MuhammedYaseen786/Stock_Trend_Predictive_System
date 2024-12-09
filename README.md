@@ -14,3 +14,15 @@ The objective of stock trend prediction is to forecast the future movement of st
 *  Predictive Methods
 
 
+**LocalHost Portal**
+
+
+![Stock_Trend_Predictive_System](https://github.com/MuhammedYaseen786/Stock_Trend_Predictive_System/blob/main/Stock-clip-1.jpg)
+
+
+![Stock_Trend_Predictive_System](https://github.com/MuhammedYaseen786/Stock_Trend_Predictive_System/blob/main/Stock-clip-2.jpg)
+
+
+![Stock_Trend_Predictive_System](https://github.com/MuhammedYaseen786/Stock_Trend_Predictive_System/blob/main/Stock-clip-3.jpg)
+
+
